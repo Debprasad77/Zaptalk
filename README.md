@@ -13,6 +13,14 @@ This is a web application that connects people from around the world for random 
 - Easy-to-use interface with smooth user experience.
 - Anonymous chatting without requiring personal information.
 
+
+## 📸 Screenshots
+![image](https://github.com/user-attachments/assets/df6efcf4-9fea-479f-a905-762541a7bbdc)
+
+![image](https://github.com/user-attachments/assets/cd319243-09cf-4816-9de7-6242910fd22a)
+
+
+
 ## 🛠️ Technologies Used
 
 - **React** – Frontend library for building user interfaces.
@@ -49,10 +57,7 @@ This is a web application that connects people from around the world for random 
 - Click on the "Start Chat" button to get connected with a random stranger.
 - Enjoy real-time messaging!
 
-## 📸 Screenshots
-![image](https://github.com/user-attachments/assets/df6efcf4-9fea-479f-a905-762541a7bbdc)
 
-![image](https://github.com/user-attachments/assets/cd319243-09cf-4816-9de7-6242910fd22a)
 
 
 ## 🔧 Configuration
