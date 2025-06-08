@@ -100,6 +100,9 @@ io.on('connection', (socket) => {
 });
 
 
+app.get('/', (req, res) => {
+  return res.send('Chat server is running');
+});
 
 const PORT = process.env.PORT || 5000;
 server.listen(PORT, () => console.log(`Server running on port ${PORT}`));
