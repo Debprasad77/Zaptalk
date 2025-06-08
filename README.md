@@ -17,7 +17,7 @@ This is a web application that connects people from around the world for random 
 ## 📸 Screenshots
 ![image](Media/Front_Banner.png)
 
-![image]((Media/Chat_Banner.png)
+![image](Media/Chat_Banner.png)
 
 
 
