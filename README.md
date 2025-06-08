@@ -5,6 +5,12 @@
 
 This is a web application that connects people from around the world for random one-on-one chat sessions. The application is designed to provide an anonymous and seamless chatting experience, enabling users to meet and interact with new people effortlessly.
 
+
+## 🚀 Live Demo
+
+[Click here to view the live demo](https://zaptalk-chat.vercel.app/)
+
+
 ## 🚀 Features
 
 - Random one-on-one chat sessions with strangers.
@@ -32,7 +38,7 @@ This is a web application that connects people from around the world for random 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Debprasad77/Real-Time-Chat_Application.git
+    git clone https://github.com/Debprasad77/Zaptalk.git
     cd random-chat-app
     ```
 
